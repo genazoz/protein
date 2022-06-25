@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-protein/static/css/main.c90a7398.css",
-    "main.js": "/react-protein/static/js/main.034bc332.js",
+    "main.css": "/react-protein/static/css/main.5b57085c.css",
+    "main.js": "/react-protein/static/js/main.81faae03.js",
     "static/media/fa-light-300.svg": "/react-protein/static/media/fa-light-300.3f4e749ed60bf505ac85.svg",
     "static/media/fa-regular-400.svg": "/react-protein/static/media/fa-regular-400.3b67150e3dfa82edca77.svg",
     "static/media/adamsbridge.hdr": "/react-protein/static/media/adamsbridge.9d5b6e44b212b2a0c566.hdr",
@@ -26,11 +26,11 @@
     "static/media/fa-brands-400.woff": "/react-protein/static/media/fa-brands-400.68b178e195e6c6034111.woff",
     "static/media/fa-brands-400.woff2": "/react-protein/static/media/fa-brands-400.4ff6a8930456607a9aa8.woff2",
     "index.html": "/react-protein/index.html",
-    "main.c90a7398.css.map": "/react-protein/static/css/main.c90a7398.css.map",
-    "main.034bc332.js.map": "/react-protein/static/js/main.034bc332.js.map"
+    "main.5b57085c.css.map": "/react-protein/static/css/main.5b57085c.css.map",
+    "main.81faae03.js.map": "/react-protein/static/js/main.81faae03.js.map"
   },
   "entrypoints": [
-    "static/css/main.c90a7398.css",
-    "static/js/main.034bc332.js"
+    "static/css/main.5b57085c.css",
+    "static/js/main.81faae03.js"
   ]
 }
