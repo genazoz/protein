@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protein/static/css/main.24c37c2b.css",
-    "main.js": "/protein/static/js/main.8986fe75.js",
+    "main.js": "/protein/static/js/main.e4eec197.js",
     "static/media/fa-light-300.svg": "/protein/static/media/fa-light-300.3f4e749ed60bf505ac85.svg",
     "static/media/fa-regular-400.svg": "/protein/static/media/fa-regular-400.3b67150e3dfa82edca77.svg",
     "static/media/adamsbridge.hdr": "/protein/static/media/adamsbridge.9d5b6e44b212b2a0c566.hdr",
@@ -27,10 +27,10 @@
     "static/media/fa-brands-400.woff2": "/protein/static/media/fa-brands-400.4ff6a8930456607a9aa8.woff2",
     "index.html": "/protein/index.html",
     "main.24c37c2b.css.map": "/protein/static/css/main.24c37c2b.css.map",
-    "main.8986fe75.js.map": "/protein/static/js/main.8986fe75.js.map"
+    "main.e4eec197.js.map": "/protein/static/js/main.e4eec197.js.map"
   },
   "entrypoints": [
     "static/css/main.24c37c2b.css",
-    "static/js/main.8986fe75.js"
+    "static/js/main.e4eec197.js"
   ]
 }
