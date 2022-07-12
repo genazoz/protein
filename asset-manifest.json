@@ -1,7 +1,16 @@
 {
   "files": {
     "main.css": "/protein/static/css/main.24c37c2b.css",
-    "main.js": "/protein/static/js/main.8225f906.js",
+    "main.js": "/protein/static/js/main.5aaba2f3.js",
+    "Home.js": "/protein/static/js/Home.8cd12e2a.chunk.js",
+    "Catalog.js": "/protein/static/js/Catalog.45634836.chunk.js",
+    "Contact.js": "/protein/static/js/Contact.3cbff1d8.chunk.js",
+    "Cart.js": "/protein/static/js/Cart.205892d0.chunk.js",
+    "Card.js": "/protein/static/js/Card.2d0fa9fc.chunk.js",
+    "NotFound.js": "/protein/static/js/NotFound.31015ccd.chunk.js",
+    "Balls.js": "/protein/static/js/Balls.c2b76927.chunk.js",
+    "static/js/748.59d6ad51.chunk.js": "/protein/static/js/748.59d6ad51.chunk.js",
+    "static/js/910.e720f93b.chunk.js": "/protein/static/js/910.e720f93b.chunk.js",
     "static/media/fa-light-300.svg": "/protein/static/media/fa-light-300.3f4e749ed60bf505ac85.svg",
     "static/media/fa-regular-400.svg": "/protein/static/media/fa-regular-400.3b67150e3dfa82edca77.svg",
     "static/media/adamsbridge.hdr": "/protein/static/media/adamsbridge.9d5b6e44b212b2a0c566.hdr",
@@ -27,10 +36,19 @@
     "static/media/fa-brands-400.woff2": "/protein/static/media/fa-brands-400.4ff6a8930456607a9aa8.woff2",
     "index.html": "/protein/index.html",
     "main.24c37c2b.css.map": "/protein/static/css/main.24c37c2b.css.map",
-    "main.8225f906.js.map": "/protein/static/js/main.8225f906.js.map"
+    "main.5aaba2f3.js.map": "/protein/static/js/main.5aaba2f3.js.map",
+    "Home.8cd12e2a.chunk.js.map": "/protein/static/js/Home.8cd12e2a.chunk.js.map",
+    "Catalog.45634836.chunk.js.map": "/protein/static/js/Catalog.45634836.chunk.js.map",
+    "Contact.3cbff1d8.chunk.js.map": "/protein/static/js/Contact.3cbff1d8.chunk.js.map",
+    "Cart.205892d0.chunk.js.map": "/protein/static/js/Cart.205892d0.chunk.js.map",
+    "Card.2d0fa9fc.chunk.js.map": "/protein/static/js/Card.2d0fa9fc.chunk.js.map",
+    "NotFound.31015ccd.chunk.js.map": "/protein/static/js/NotFound.31015ccd.chunk.js.map",
+    "Balls.c2b76927.chunk.js.map": "/protein/static/js/Balls.c2b76927.chunk.js.map",
+    "748.59d6ad51.chunk.js.map": "/protein/static/js/748.59d6ad51.chunk.js.map",
+    "910.e720f93b.chunk.js.map": "/protein/static/js/910.e720f93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24c37c2b.css",
-    "static/js/main.8225f906.js"
+    "static/js/main.5aaba2f3.js"
   ]
 }

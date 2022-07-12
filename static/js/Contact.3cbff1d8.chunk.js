@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotein=self.webpackChunkprotein||[]).push([[337],{1245:function(e,n,t){t.r(n);var u=t(184);n.default=function(){return(0,u.jsx)("div",{})}}}]);
+//# sourceMappingURL=Contact.3cbff1d8.chunk.js.map
