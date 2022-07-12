@@ -219,7 +219,7 @@ export const CartModal: React.FC = () => {
             </div>)
             :
             (<div onClick={onClickShowCartButton}>
-              <Button type={"link"} href={'/protein/cart'} theme={'green-border'} text={"В корзину"} fullwidth={true}/>
+              <Button type={"link"} href={'cart'} theme={'green-border'} text={"В корзину"} fullwidth={true}/>
             </div>)
           }
         </Footer>

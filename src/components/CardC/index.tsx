@@ -123,7 +123,7 @@ export const CardC: React.FC<GoodsCardProps> = ({id, prodId, imageUrl, title, pr
   return (
     <Card>
       <ImageWrapper>
-        <Image width="300" height="300" src={`/protein/${imageUrl}`} alt=""/>
+        <Image width="300" height="300" src={imageUrl} alt=""/>
       </ImageWrapper>
       <Elements>
         <Quantity count={count} onClickPlus={onClickPlus} onClickMinus={onClickMinus}/>

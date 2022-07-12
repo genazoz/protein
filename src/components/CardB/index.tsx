@@ -125,7 +125,7 @@ export const CardB: React.FC<GoodsCardProps> = ({prodId, imageUrl, title, price}
       >
         ×
       </Remove>
-      <Image width="300" height="300" src={`/protein/${imageUrl}`} alt=""></Image>
+      <Image width="300" height="300" src={`${imageUrl}`} alt=""></Image>
       <TextWrapper>
         <Name>{title}</Name>
         <Price>{price}</Price>
