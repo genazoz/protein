@@ -247,7 +247,7 @@ export const Menu = () => {
       <List>
         {linksArray.map((item, index) => (
           <ListItem key={index} isShow={menuOpened}>
-            <Link to={`protein/${item.link}`} onClick={onClickLink}>
+            <Link to={`/${item.link}`} onClick={onClickLink}>
               {item.text}
             </Link>
           </ListItem>

@@ -432,7 +432,7 @@ export const Header: React.FC = () => {
       </MenuButtonWrapper>
       {location.pathname == `/card/${id}` && window.innerWidth > 1200 && (<BackButton/>)}
       <LogoWrapper>
-        <Logo text={'PS'} type={'link'} href={'protein/'}/>
+        <Logo text={'PS'} type={'link'} href={'/'}/>
       </LogoWrapper>
       <Side>
         <SearchWrapper>
