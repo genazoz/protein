@@ -316,7 +316,7 @@ export const CardA: React.FC<GoodsCardProps> = ({id, prodId, imageUrl, title, pr
       onMouseLeave={() => handleMouseLeave()}
     >
       <Card className={"card"} ref={cardRef}>
-        <LinkElement as={Link} to={`card/${id}`}></LinkElement>
+        <LinkElement as={Link} to={`/card/${id}`}></LinkElement>
         <AddToCartButton
           onClick={() => onClickAddToCartButton()}
           isActive={itemInCart ? true : false}
@@ -327,7 +327,7 @@ export const CardA: React.FC<GoodsCardProps> = ({id, prodId, imageUrl, title, pr
         <Background
           ref={bgRef}
           className={"card-bg"}
-          style={{backgroundImage: `url('${imageUrl}`}}
+          style={{backgroundImage: `url('/${imageUrl}`}}
         ></Background>
         <Name>{title}</Name>
         <Price>{price}</Price>

@@ -430,7 +430,7 @@ export const Header: React.FC = () => {
           <span></span>
         </MenuButton>
       </MenuButtonWrapper>
-      {location.pathname == `card/${id}` && window.innerWidth > 1200 && (<BackButton/>)}
+      {location.pathname == `/card/${id}` && window.innerWidth > 1200 && (<BackButton/>)}
       <LogoWrapper>
         <Logo text={'PS'} type={'link'} href={'protein/'}/>
       </LogoWrapper>

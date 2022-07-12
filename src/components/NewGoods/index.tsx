@@ -126,7 +126,7 @@ export const NewGoods:React.FC<NewGoodsProps> = ({items}) => {
           можете изх увидеть.
         </Subtitle>
         <ButtonWrapper>
-          <Button theme={'green'} text={"Перейти в каталог"} type={"link"} href={"catalog"}/>
+          <Button theme={'green'} text={"Перейти в каталог"} type={"link"} href={"/catalog"}/>
         </ButtonWrapper>
       </HeaderWrapper>
       <GoodsSlider

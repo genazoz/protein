@@ -23,11 +23,11 @@ function App() {
       <React.Suspense fallback={<Loader/>}>
         <Routes>
           <Route path="/" element={<MainLayout/>}>
-            <Route path="protein/" element={<Home/>}></Route>
-            <Route path="protein/contact" element={<Contact/>}></Route>
-            <Route path="protein/catalog" element={<Catalog/>}></Route>
-            <Route path="protein/card/:id" element={<Card/>}></Route>
-            <Route path="protein/cart" element={<Cart/>}></Route>
+            <Route path="/" element={<Home/>}></Route>
+            <Route path="/contact" element={<Contact/>}></Route>
+            <Route path="/catalog" element={<Catalog/>}></Route>
+            <Route path="/card/:id" element={<Card/>}></Route>
+            <Route path="/cart" element={<Cart/>}></Route>
             <Route path="*" element={<NotFound/>}></Route>
           </Route>
         </Routes>

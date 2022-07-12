@@ -311,11 +311,11 @@ function CardPage() {
     <Card>
       <Preview>
         {/*{window.innerWidth > 1200 && (*/}
-        {/*  <ImageWrapper style={{backgroundImage: `url(${goods.imageUrl})`}}></ImageWrapper>)}*/}
+        {/*  <ImageWrapper style={{backgroundImage: `url(/${goods.imageUrl})`}}></ImageWrapper>)}*/}
         {/*{window.innerWidth <= 1200 && (*/}
           <ImageWrapper>
           <Circle/>
-          <Image src={`${goods.imageUrl}`} alt="item"/>
+          <Image src={`/${goods.imageUrl}`} alt="item"/>
         </ImageWrapper>
         {/*)}*/}
       </Preview>
